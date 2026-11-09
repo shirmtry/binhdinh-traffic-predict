@@ -1,0 +1,17 @@
+{
+  "name": "binhdinh-traffic-predict",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Du bao mat do xe Quy Nhon - HTK 0396241674 - 2026",
+  "author": "HTK <htk.contact@gmail.com> (https://zalo.me/0396241674)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
